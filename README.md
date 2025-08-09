@@ -42,11 +42,6 @@ The system captures packets from nearby devices in monitor mode, extracts key in
 
 ---
 
-## 📸 Screenshots (Optional)
-*(Add screenshots of serial monitor output, Python logs, or Wireshark capture here)*
-
----
-
 ## 📜 Future Enhancements
 - Integration with **GRC tools** for risk assessment reporting.
 - **Visualization dashboard** in Power BI or Grafana.
